@@ -1,0 +1,61 @@
+body{
+    background-color: beige
+}
+.fundo{
+    width: 360px;
+    height: 740px;
+    background-color: lightsalmon;
+    margin: auto;
+   align-items: center;
+   display: flex;
+   flex-direction: column
+
+ }
+  h1{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Pacifico', cursive;
+  }
+  input{
+    width: 260px;
+    height: 40px;
+    margin-right: 40px; margin-left: 40px; margin-bottom: 40px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Pacifico', cursive;
+  }
+  button{
+   width: 270px ;height: 100px; margin-right: 40px; margin-left: 40px;margin-top: 10px;
+    border-radius: 5px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Pacifico', cursive;
+  }
+  span{
+    width: 270px;
+    height: 320px;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    background-color: indianred;
+    display: flex; justify-content: center; align-items: center; 
+  }
+  h2{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Pacifico', cursive;
+  }
+  h3{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Pacifico', cursive;
+  }
+a{
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Pacifico', cursive;
+  }
+  a:link {
+    text-decoration: none;
+  }
+ 
